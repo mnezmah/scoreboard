@@ -19,6 +19,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Welcome to Codaisseur :)
+          we ar bad
         </a>
       </header>
       <Title />
